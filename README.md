@@ -5,15 +5,11 @@
 ## 2) Schreibe ein Programm, was den Index eibes Bestimmten Wertes zurückgibt.
 
 ## 3) Schreibe ein Programm, was auf der Konsole dieses Raster erzeugt:
-- - - - - - - - - -                                                                                           
-- - - - - - - - - -                                                                                           
-- - - - - - - - - -                                                                                           
-- - - - - - - - - -                                                                                           
-- - - - - - - - - -                                                                                           
-- - - - - - - - - -                                                                                           
-- - - - - - - - - -                                                                                           
-- - - - - - - - - -                                                                                           
-- - - - - - - - - -                                                                                           
+      *************
+      *************
+      *************
+      *************
+      *************
 
 ## 4) Schreibe ein Programm, was numerische Werte in einem Array  aufsteigend ordnet.
 
